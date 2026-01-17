@@ -272,18 +272,18 @@ export default function DashboardPage() {
                         {new Date(session.startTime).toLocaleDateString()}
                         {duration && ` • ${duration} minutes`}
                       </p>
-                      {session.improvementHighlight && (
+                      {/* {session.improvementHighlight && (
                         <p className="text-sm text-primary-600 mt-2">
                           ✨ {session.improvementHighlight}
                         </p>
-                      )}
+                      )} */}
                     </div>
-                    {session.confidenceScore && (
+                    {/* {session.confidenceScore && (
                       <div className="text-right">
                         <p className="text-2xl font-bold text-gray-900">{session.confidenceScore}</p>
                         <p className="text-xs text-gray-500">confidence</p>
                       </div>
-                    )}
+                    )} */}
                   </div>
                 </Link>
               )
