@@ -1,0 +1,20 @@
+═══════════════════════════════════════════════════════════════
+  🔧 QUICK FIX FOR BLANK PAGE
+═══════════════════════════════════════════════════════════════
+
+The issue is macOS blocking Next.js file access.
+
+RUN THIS IN TERMINAL (copy all lines):
+
+cd /Users/nikhiltalwar/Desktop/imppppppp
+killall node 2>/dev/null
+rm -rf .next node_modules package-lock.json
+npm cache clean --force
+npm install --legacy-peer-deps
+npm run dev
+
+═══════════════════════════════════════════════════════════════
+
+After running, open: http://localhost:3001
+
+═══════════════════════════════════════════════════════════════

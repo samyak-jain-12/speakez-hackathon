@@ -1,0 +1,210 @@
+[2026-01-16T20:33:05.307Z] Received POST request to /api/agent/analyze
+[2026-01-16T20:33:05.307Z] Input Mode: pitch
+[2026-01-16T20:33:05.307Z] Transcript Length: 0
+[2026-01-16T20:33:05.307Z] Agent 2 Data: {"pitch":281.25,"volume":0.007,"pace":130,"stress_index":0.438,"repetition_count":0}
+[2026-01-16T20:33:05.307Z] Generated Mock Agent 4 Data: {"eye_contact_score":0.75,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-16T20:33:05.307Z] Running Agent 5 (Confidence)...
+[2026-01-16T20:33:06.581Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-16T21:11:08.950Z] Received POST request to /api/agent/analyze
+[2026-01-16T21:11:08.951Z] Input Mode: pitch
+[2026-01-16T21:11:08.951Z] Transcript Length: 102
+[2026-01-16T21:11:08.951Z] Agent 2 Data: {"pitch":304.69,"volume":0.159,"pace":23,"stress_index":0.516,"repetition_count":0}
+[2026-01-16T21:11:08.951Z] Generated Mock Agent 4 Data: {"eye_contact_score":0.75,"posture_alert":false,"gesture_intensity":"low"}
+[2026-01-16T21:11:08.951Z] Running Agent 5 (Confidence)...
+[2026-01-16T21:11:10.537Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-16T21:11:39.057Z] Received POST request to /api/agent/analyze
+[2026-01-16T21:11:39.058Z] Input Mode: professional
+[2026-01-16T21:11:39.058Z] Transcript Length: 13
+[2026-01-16T21:11:39.058Z] Agent 2 Data: {"pitch":281.25,"volume":0.036,"pace":130,"stress_index":0.438,"repetition_count":0}
+[2026-01-16T21:11:39.058Z] Generated Mock Agent 4 Data: {"eye_contact_score":0.75,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-16T21:11:39.058Z] Running Agent 5 (Confidence)...
+[2026-01-16T21:11:40.374Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-16T21:12:40.366Z] Received POST request to /api/agent/analyze
+[2026-01-16T21:12:40.367Z] Input Mode: conversation
+[2026-01-16T21:12:40.367Z] Transcript Length: 64
+[2026-01-16T21:12:40.367Z] Agent 2 Data: {"pitch":351.56,"volume":0.04,"pace":130,"stress_index":0.672,"repetition_count":0}
+[2026-01-16T21:12:40.367Z] Generated Mock Agent 4 Data: {"eye_contact_score":0.75,"posture_alert":true,"gesture_intensity":"medium"}
+[2026-01-16T21:12:40.367Z] Running Agent 5 (Confidence)...
+[2026-01-16T21:12:41.728Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-16T21:45:07.977Z] Received POST request to /api/agent/analyze
+[2026-01-16T21:45:07.977Z] Input Mode: pitch
+[2026-01-16T21:45:07.977Z] Transcript Length: 87
+[2026-01-16T21:45:07.977Z] Agent 2 Data: {"pitch":140.63,"volume":0.029,"pace":130,"stress_index":0.031,"repetition_count":0}
+[2026-01-16T21:45:07.977Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-16T21:45:07.978Z] Running Agent 5 (Confidence)...
+[2026-01-16T21:45:08.323Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-16T21:53:29.701Z] Received POST request to /api/agent/analyze
+[2026-01-16T21:53:29.718Z] Input Mode: pitch
+[2026-01-16T21:53:29.718Z] Transcript Length: 0
+[2026-01-16T21:53:29.718Z] Agent 2 Data: {"pitch":210.94,"volume":0.009,"pace":130,"stress_index":0.203,"repetition_count":0}
+[2026-01-16T21:53:29.718Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-16T21:53:29.718Z] Running Agent 5 (Confidence)...
+[2026-01-16T21:53:30.394Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-16T21:58:14.487Z] Received POST request to /api/agent/analyze
+[2026-01-16T21:58:14.487Z] Input Mode: pitch
+[2026-01-16T21:58:14.487Z] Transcript Length: 0
+[2026-01-16T21:58:14.487Z] Agent 2 Data: {"pitch":210.94,"volume":0.017,"pace":130,"stress_index":0.203,"repetition_count":0}
+[2026-01-16T21:58:14.487Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-16T21:58:14.487Z] Running Agent 5 (Confidence)...
+[2026-01-16T21:58:14.865Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-16T22:23:47.955Z] Received POST request to /api/agent/analyze
+[2026-01-16T22:23:47.956Z] Input Mode: professional
+[2026-01-16T22:23:47.956Z] Transcript Length: 0
+[2026-01-16T22:23:47.956Z] Agent 2 Data: {"pitch":164.06,"volume":0.15,"pace":130,"stress_index":0.047,"repetition_count":0}
+[2026-01-16T22:23:47.956Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-16T22:23:47.956Z] Running Agent 5 (Confidence)...
+[2026-01-16T22:23:48.313Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T00:30:39.410Z] Received POST request to /api/agent/analyze
+[2026-01-17T00:30:39.411Z] Input Mode: pitch
+[2026-01-17T00:30:39.411Z] Transcript Length: 63
+[2026-01-17T00:30:39.411Z] Agent 2 Data: {"pitch":140.63,"volume":0.064,"pace":130,"stress_index":0.031,"repetition_count":0}
+[2026-01-17T00:30:39.411Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T00:30:39.411Z] Running Agent 5 (Confidence)...
+[2026-01-17T00:30:39.779Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T00:37:03.428Z] Received POST request to /api/agent/analyze
+[2026-01-17T00:37:03.429Z] Input Mode: pitch
+[2026-01-17T00:37:03.429Z] Transcript Length: 0
+[2026-01-17T00:37:03.429Z] Agent 2 Data: {"pitch":117.19,"volume":0.128,"pace":130,"stress_index":0.109,"repetition_count":0}
+[2026-01-17T00:37:03.430Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T00:37:03.430Z] Running Agent 5 (Confidence)...
+[2026-01-17T00:37:03.880Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T00:42:52.711Z] Received POST request to /api/agent/analyze
+[2026-01-17T00:42:52.712Z] Input Mode: pitch
+[2026-01-17T00:42:52.712Z] Transcript Length: 6
+[2026-01-17T00:42:52.712Z] Agent 2 Data: {"pitch":140.63,"volume":0.028,"pace":130,"stress_index":0.031,"repetition_count":0}
+[2026-01-17T00:42:52.712Z] Running Agent 3 (NLP)...
+[2026-01-17T00:42:53.080Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T00:42:53.080Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T00:42:53.081Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T00:42:53.081Z] Running Agent 5 (Confidence)...
+[2026-01-17T00:42:54.329Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T00:45:00.986Z] Received POST request to /api/agent/analyze
+[2026-01-17T00:45:00.987Z] Input Mode: pitch
+[2026-01-17T00:45:00.987Z] Transcript Length: 45
+[2026-01-17T00:45:00.987Z] Agent 2 Data: {"pitch":117.19,"volume":0.017,"pace":130,"stress_index":0.109,"repetition_count":0}
+[2026-01-17T00:45:00.987Z] Running Agent 3 (NLP)...
+[2026-01-17T00:45:01.387Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T00:45:01.387Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T00:45:01.387Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T00:45:01.387Z] Running Agent 5 (Confidence)...
+[2026-01-17T00:45:02.701Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T00:48:32.360Z] Received POST request to /api/agent/analyze
+[2026-01-17T00:48:32.361Z] Input Mode: pitch
+[2026-01-17T00:48:32.361Z] Transcript Length: 0
+[2026-01-17T00:48:32.361Z] Agent 2 Data: {"pitch":93.75,"volume":0.04,"pace":130,"stress_index":0.188,"repetition_count":0}
+[2026-01-17T00:48:32.361Z] Running Agent 3 (NLP)...
+[2026-01-17T00:48:32.749Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T00:48:32.749Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T00:48:32.750Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T00:48:32.750Z] Running Agent 5 (Confidence)...
+[2026-01-17T00:48:34.159Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T00:51:47.370Z] Received POST request to /api/agent/analyze
+[2026-01-17T00:51:47.371Z] Input Mode: pitch
+[2026-01-17T00:51:47.371Z] Transcript Length: 0
+[2026-01-17T00:51:47.371Z] Agent 2 Data: {"pitch":117.19,"volume":0.02,"pace":130,"stress_index":0.109,"repetition_count":0}
+[2026-01-17T00:51:47.371Z] Running Agent 3 (NLP)...
+[2026-01-17T00:51:47.727Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T00:51:47.727Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T00:51:47.727Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T00:51:47.727Z] Running Agent 5 (Confidence)...
+[2026-01-17T00:51:48.878Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T00:54:48.752Z] Received POST request to /api/agent/analyze
+[2026-01-17T00:54:48.753Z] Input Mode: pitch
+[2026-01-17T00:54:48.753Z] Transcript Length: 38
+[2026-01-17T00:54:48.753Z] Agent 2 Data: {"pitch":93.75,"volume":0.082,"pace":130,"stress_index":0.188,"repetition_count":0}
+[2026-01-17T00:54:48.753Z] Running Agent 3 (NLP)...
+[2026-01-17T00:54:49.126Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T00:54:49.126Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T00:54:49.126Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T00:54:49.127Z] Running Agent 5 (Confidence)...
+[2026-01-17T00:54:50.286Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T00:57:26.112Z] Received POST request to /api/agent/analyze
+[2026-01-17T00:57:26.113Z] Input Mode: pitch
+[2026-01-17T00:57:26.113Z] Transcript Length: 0
+[2026-01-17T00:57:26.113Z] Agent 2 Data: {"pitch":0,"volume":0,"pace":0,"stress_index":0,"repetition_count":0}
+[2026-01-17T00:57:26.113Z] Running Agent 3 (NLP)...
+[2026-01-17T00:57:26.481Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T00:57:26.482Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T00:57:26.482Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T00:57:26.482Z] Running Agent 5 (Confidence)...
+[2026-01-17T00:57:27.705Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T01:15:20.919Z] Received POST request to /api/agent/analyze
+[2026-01-17T01:15:20.920Z] Input Mode: debate
+[2026-01-17T01:15:20.920Z] Transcript Length: 0
+[2026-01-17T01:15:20.920Z] Agent 2 Data: {"pitch":0,"volume":0,"pace":0,"stress_index":0,"repetition_count":0}
+[2026-01-17T01:15:20.920Z] Running Agent 3 (NLP)...
+[2026-01-17T01:15:21.583Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T01:15:21.584Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T01:15:21.584Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T01:15:21.584Z] Running Agent 5 (Confidence)...
+[2026-01-17T01:15:23.059Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T01:20:47.080Z] Received POST request to /api/agent/analyze
+[2026-01-17T01:20:47.081Z] Input Mode: pitch
+[2026-01-17T01:20:47.081Z] Transcript Length: 0
+[2026-01-17T01:20:47.081Z] Agent 2 Data: {"pitch":0,"volume":0,"pace":0,"stress_index":0,"repetition_count":0}
+[2026-01-17T01:20:47.081Z] Running Agent 3 (NLP)...
+[2026-01-17T01:20:47.086Z] Agent 3 Failed: fetch failed
+[2026-01-17T01:20:47.086Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T01:20:47.086Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T01:20:47.086Z] Running Agent 5 (Confidence)...
+[2026-01-17T01:20:47.090Z] Analysis Error: fetch failed
+[2026-01-17T01:29:52.566Z] Received POST request to /api/agent/analyze
+[2026-01-17T01:29:52.567Z] Input Mode: pitch
+[2026-01-17T01:29:52.567Z] Transcript Length: 142
+[2026-01-17T01:29:52.567Z] Agent 2 Data: {"pitch":0,"volume":0,"pace":0,"stress_index":0,"repetition_count":0}
+[2026-01-17T01:29:52.567Z] Running Agent 3 (NLP)...
+[2026-01-17T01:29:54.154Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T01:29:54.154Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"high"}
+[2026-01-17T01:29:54.154Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T01:29:54.154Z] Running Agent 5 (Confidence)...
+[2026-01-17T01:29:57.827Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T01:31:13.849Z] Received POST request to /api/agent/analyze
+[2026-01-17T01:31:13.850Z] Input Mode: pitch
+[2026-01-17T01:31:13.850Z] Transcript Length: 0
+[2026-01-17T01:31:13.850Z] Agent 2 Data: {"pitch":0,"volume":0,"pace":0,"stress_index":0,"repetition_count":0}
+[2026-01-17T01:31:13.850Z] Running Agent 3 (NLP)...
+[2026-01-17T01:31:14.244Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T01:31:14.245Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T01:31:14.245Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T01:31:14.245Z] Running Agent 5 (Confidence)...
+[2026-01-17T01:31:16.543Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T01:42:35.169Z] Received POST request to /api/agent/analyze
+[2026-01-17T01:42:35.170Z] Input Mode: pitch
+[2026-01-17T01:42:35.170Z] Transcript Length: 34
+[2026-01-17T01:42:35.170Z] Agent 2 Data: {"pitch":182.29333333333335,"volume":0.29388888888888887,"pace":1621.3333333333333,"stress_index":0.19899999999999998,"repetition_count":0}
+[2026-01-17T01:42:35.170Z] Running Agent 3 (NLP)...
+[2026-01-17T01:42:35.527Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T01:42:35.528Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T01:42:35.528Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T01:42:35.528Z] Running Agent 5 (Confidence)...
+[2026-01-17T01:42:37.430Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T01:45:17.744Z] Received POST request to /api/agent/analyze
+[2026-01-17T01:45:17.745Z] Input Mode: professional
+[2026-01-17T01:45:17.745Z] Transcript Length: 0
+[2026-01-17T01:45:17.745Z] Agent 2 Data: {"pitch":117.18833333333335,"volume":0.07900000000000001,"pace":347.25,"stress_index":0.15149999999999997,"repetition_count":0}
+[2026-01-17T01:45:17.746Z] Running Agent 3 (NLP)...
+[2026-01-17T01:45:18.360Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T01:45:18.360Z] Using Agent 4 Data: {"eye_contact_score":0.85,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T01:45:18.360Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T01:45:18.360Z] Running Agent 5 (Confidence)...
+[2026-01-17T01:45:19.986Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T02:52:36.496Z] Received POST request to /api/agent/analyze
+[2026-01-17T02:52:36.497Z] Input Mode: pitch
+[2026-01-17T02:52:36.497Z] Transcript Length: 95
+[2026-01-17T02:52:36.497Z] Agent 2 Data: {"pitch":201.3513636363637,"volume":0.14122727272727273,"pace":333.90909090909093,"stress_index":0.24386363636363637,"repetition_count":0}
+[2026-01-17T02:52:36.497Z] Running Agent 3 (NLP)...
+[2026-01-17T02:52:36.862Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T02:52:36.862Z] Using Agent 4 Data: {"eye_contact_score":0.45,"posture_alert":false,"gesture_intensity":"high"}
+[2026-01-17T02:52:36.862Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T02:52:36.862Z] Running Agent 5 (Confidence)...
+[2026-01-17T02:52:38.248Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}
+[2026-01-17T03:53:47.482Z] Received POST request to /api/agent/analyze
+[2026-01-17T03:53:47.483Z] Input Mode: pitch
+[2026-01-17T03:53:47.483Z] Transcript Length: 69
+[2026-01-17T03:53:47.483Z] Agent 2 Data: {"pitch":219.57315789473685,"volume":0.12657894736842104,"pace":383.42105263157896,"stress_index":0.23542105263157898,"repetition_count":0}
+[2026-01-17T03:53:47.483Z] Running Agent 3 (NLP)...
+[2026-01-17T03:53:47.855Z] Agent 3 Failed: Failed to create session Agent 3: 400
+[2026-01-17T03:53:47.855Z] Using Agent 4 Data: {"eye_contact_score":0.45,"posture_alert":false,"gesture_intensity":"medium"}
+[2026-01-17T03:53:47.856Z] Using Agent 3 Data: {"filler_words":0,"clarity_score":0.8,"key_phrases_repeated":[]}
+[2026-01-17T03:53:47.856Z] Running Agent 5 (Confidence)...
+[2026-01-17T03:53:49.118Z] Analysis Error: Failed to create session Agent 5: 400 {"message":"One or more agents are invalid","errorCode":"invalid_request","details":{"invalidAgentIds":["696a3892c7d6dfdf7e337ca2"]}}

@@ -1,0 +1,39 @@
+{
+  "name": "speakez",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3002",
+    "build": "next build",
+    "start": "next start -p 3002",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "^20.19.30",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@types/uuid": "^10.0.0",
+    "autoprefixer": "^10.4.16",
+    "axios": "^1.6.0",
+    "date-fns": "^2.30.0",
+    "fft-js": "^0.0.12",
+    "framer-motion": "^10.16.4",
+    "lucide-react": "^0.294.0",
+    "next": "^14.0.0",
+    "next-intl": "^4.7.0",
+    "openai": "^4.20.0",
+    "postcss": "^8.4.31",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-speech-kit": "^3.0.1",
+    "react-webcam": "^7.1.1",
+    "tailwindcss": "^3.3.5",
+    "typescript": "^5.2.2",
+    "uuid": "^13.0.0",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0",
+    "eslint-config-next": "^14.0.0"
+  }
+}
