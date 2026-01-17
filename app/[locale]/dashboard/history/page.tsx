@@ -82,7 +82,7 @@ export default function HistoryPage() {
                                     <div className="text-center">
                                         <p className="text-xs text-gray-500 uppercase font-medium">Confidence</p>
                                         <p className="font-semibold text-green-600">
-                                            {session.confidenceScore ? Math.round(session.confidenceScore * 10) / 10 : '-'}/10
+                                            {/* {session.confidenceScore ? Math.round(session.confidenceScore * 10) / 10 : '-'}/10 */}
                                         </p>
                                     </div>
                                 </div>
