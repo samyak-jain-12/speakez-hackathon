@@ -33,7 +33,8 @@ async function listAgents() {
                 console.log("Response:", text);
             }
         } catch (err) {
-            console.error(`Error calling ${url}:`, err.message);
+            // console.error(`Error calling ${url}:`, err.message);
+            console.error('Error')
         }
     }
 }

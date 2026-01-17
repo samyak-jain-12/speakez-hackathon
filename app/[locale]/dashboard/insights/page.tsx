@@ -433,7 +433,7 @@ export default function InsightsPage() {
       <div className="bg-green-50 border border-green-200 p-6 rounded-lg">
         <h3 className="text-lg font-semibold mb-2 text-green-900">Remember</h3>
         <p className="text-green-800 text-sm">
-          These insights are observations to help you understand your speech patterns. They're not evaluations or judgments.
+          These insights are observations to help you understand your speech patterns. They are not evaluations or judgments.
           Every voice is unique, and improvement is a journey. Keep practicing at your own pace, and celebrate your progress along the way.
         </p>
       </div>

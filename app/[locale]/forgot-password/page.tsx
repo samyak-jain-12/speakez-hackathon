@@ -32,7 +32,7 @@ export default function ForgotPasswordPage() {
           </div>
           <h1 className="text-2xl font-bold mb-4 text-gray-900">Check Your Email</h1>
           <p className="text-gray-600 mb-6">
-            We've sent password reset instructions to {email}
+            We have sent password reset instructions to {email}
           </p>
           <Link
             href="/login"
@@ -52,7 +52,7 @@ export default function ForgotPasswordPage() {
           Reset Password
         </h1>
         <p className="text-center text-gray-600 mb-6">
-          Enter your email address and we'll send you instructions to reset your password.
+          Enter your email address and we will send you instructions to reset your password.
         </p>
         
         <form onSubmit={handleSubmit} className="space-y-4">

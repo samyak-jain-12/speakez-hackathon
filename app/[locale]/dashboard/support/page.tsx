@@ -58,7 +58,7 @@ export default function SpeechSupportPage() {
             <div className="prose max-w-none text-gray-700 space-y-4">
               <p>
                 Everyone has unique speech patterns. Some patterns, like repetition, hesitation, or rapid pacing,
-                are common and can be part of natural communication. These patterns don't indicate anything "wrong"
+                are common and can be part of natural communication. These patterns dont indicate anything wrong
                 with how you speak.
               </p>
               <p>
@@ -93,7 +93,7 @@ export default function SpeechSupportPage() {
               <div className="bg-blue-50 border border-blue-200 p-4 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">Pacing Practice</h3>
                 <p className="text-sm text-gray-700 mb-2">
-                  Practice speaking at a comfortable pace. There's no "right" speed—find what feels natural for you.
+                  Practice speaking at a comfortable pace. There is no right speed—find what feels natural for you.
                 </p>
               </div>
               <div className="bg-green-50 border border-green-200 p-4 rounded-lg">
@@ -186,7 +186,7 @@ export default function SpeechSupportPage() {
                   Start voicing gently by letting a little air out before the sound begins. This reduces tension in the vocal cords.
                 </p>
                 <div className="text-xs bg-white px-3 py-2 rounded border border-gray-200 inline-block text-gray-500">
-                  Try saying "Hhhh-ello" instead of a hard "Hello"
+                  Try saying Hhhh-ello instead of a hard Hello
                 </div>
               </div>
               <div className="p-5 border border-gray-100 rounded-xl bg-gray-50">
@@ -195,7 +195,7 @@ export default function SpeechSupportPage() {
                   Touch the articulators (lips, tongue, teeth) together very lightly when producing consonants.
                 </p>
                 <div className="text-xs bg-white px-3 py-2 rounded border border-gray-200 inline-block text-gray-500">
-                  Imagine your lips are made of bubbles you don't want to pop
+                  Imagine your lips are made of bubbles you dont want to pop
                 </div>
               </div>
             </div>

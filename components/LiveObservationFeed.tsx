@@ -27,7 +27,7 @@ export default function LiveObservationFeed({ observations }: LiveObservationFee
     <div className="bg-white rounded-lg border border-gray-200 p-4 h-full overflow-y-auto">
       <h3 className="text-lg font-semibold mb-4 text-gray-900 flex items-center gap-2">
         <Lightbulb className="w-5 h-5 text-primary-500" />
-        What We're Noticing
+        What We are Noticing
       </h3>
       
       <div className="space-y-3">

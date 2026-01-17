@@ -177,7 +177,7 @@ export default function RoadmapPage() {
         <h3 className="text-lg font-semibold mb-2 text-green-900">About Your Roadmap</h3>
         <p className="text-green-800 text-sm">
           This roadmap is generated specifically for you based on your practice sessions. It adapts to your
-          personal baseline and provides supportive, actionable steps for improvement. Remember, there's no
+          personal baseline and provides supportive, actionable steps for improvement. Remember, there is no
           universal standard—your journey is unique.
         </p>
       </div>
